@@ -125,6 +125,24 @@
 
 ------------------------------------------------------------------------
 
+### 📈 Contributions KPI
+
+<p align="center">
+  <samp>My coding consistency & impact highlights</samp>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=KeoChamraeun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs,prs_merged,reviews,issues" alt="extended stats" />
+</p>
+
+<p align="center">
+  <img height="130" src="https://streak-stats.demolab.com?user=KeoChamraeun&theme=radical&hide_border=true&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="contribution streaks & totals" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeoChamraeun&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css,tex" />
+</p>
+
+------------------------------------------------------------------------
+
 ### 🐍 Contribution Snake
 
 <p align="center">
